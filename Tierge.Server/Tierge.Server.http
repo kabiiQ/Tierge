@@ -1,0 +1,6 @@
+@Tierge.Server_HostAddress = http://localhost:5070
+
+GET {{Tierge.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
