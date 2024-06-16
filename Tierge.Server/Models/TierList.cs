@@ -26,5 +26,5 @@ namespace Tierge.Server.Models
         public IList<TierListObjects.Item> Items { get; } = new List<TierListObjects.Item>();
     }
 
-    public record TierListDto
+    public record TierListDto;
 }

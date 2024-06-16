@@ -14,6 +14,8 @@ namespace Tierge.Server.Models
 
         public string Description { get; set; } = null!;
 
+        public string CoverImage { get; set; } = null!;
+
         // TODO category 
 
         public DateTime Created { get; set; }
